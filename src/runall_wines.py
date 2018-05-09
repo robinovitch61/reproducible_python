@@ -1,3 +1,6 @@
+## RUN WITH python -m src.runall_wines
+
+import recipy
 import importlib
 
 # Import modules
