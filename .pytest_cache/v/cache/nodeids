@@ -1,3 +1,12 @@
 [
-  "tests/test_03_country_subset.py::test_get_mean_price"
+  "notebooks/00_explore-data.ipynb::Cell 0",
+  "notebooks/00_explore-data.ipynb::Cell 1",
+  "notebooks/00_explore-data.ipynb::Cell 2",
+  "notebooks/00_explore-data.ipynb::Cell 3",
+  "notebooks/00_explore-data.ipynb::Cell 4",
+  "notebooks/00_explore-data.ipynb::Cell 5",
+  "notebooks/00_explore-data.ipynb::Cell 6",
+  "notebooks/00_explore-data.ipynb::Cell 7",
+  "notebooks/00_explore-data.ipynb::Cell 8",
+  "notebooks/00_explore-data.ipynb::Cell 9"
 ]
