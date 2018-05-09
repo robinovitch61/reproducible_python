@@ -1,4 +1,4 @@
-example_repo
+reproducible_python
 ==============================
 
 My reproducible workflow
